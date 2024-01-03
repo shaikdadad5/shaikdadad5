@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @shaikdadad5
+- 👋 Hi, I’m Shaik dada Khalandar
+-  🌱 I’m currently learning Python with ML,AI,DS
 - 👀 I’m interested in AI,ML,DS
-- 🌱 I’m currently learning Python with ML,AI,DS
 - 📫 How to reach me shaikdadad5@gmail.com
 
 <!---
